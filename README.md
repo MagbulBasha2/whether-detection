@@ -30,7 +30,7 @@ A simple web application to check the current weather for your location or any c
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/MagbulBasha2/whether-detection.git
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
